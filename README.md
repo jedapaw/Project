@@ -1,7 +1,3 @@
-# Unlearnable Examples
-
-Code for ICLR2021 Spotlight Paper ["Unlearnable Examples: Making Personal Data Unexploitable "](https://openreview.net/forum?id=iAmZUo0DxC0) by Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang.
-
 ## Quick Start
 ##### Use the QuickStart.ipynb notebook for a quick start.
 In the notebook, you can find the minimal implementation for generating sample-wise unlearnable examples on CIFAR-10.
@@ -71,14 +67,3 @@ python3 -u main.py    --version                 resnet18                       \
 
 
 ---
-## Cite Our Work
-```
-@inproceedings{huang2021unlearnable,
-    title={Unlearnable Examples: Making Personal Data Unexploitable},
-    author={Hanxun Huang and Xingjun Ma and Sarah Monazam Erfani and James Bailey and Yisen Wang},
-    booktitle={ICLR},
-    year={2021}
-}
-```
-# Project
-# Project
